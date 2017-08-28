@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\obj\Debug\Farm.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\obj\Debug\Farm.exe
+C:\Users\marsh\Documents\Visual Studio 2017\Projects\Farm\Farm\obj\Debug\Farm.pdb
