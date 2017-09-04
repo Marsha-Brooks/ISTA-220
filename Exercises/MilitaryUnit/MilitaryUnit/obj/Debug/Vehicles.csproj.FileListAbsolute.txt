@@ -1,0 +1,6 @@
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\obj\Debug\Vehicles.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 12\Vehicles - Complete\Vehicles\obj\Debug\Vehicles.pdb
