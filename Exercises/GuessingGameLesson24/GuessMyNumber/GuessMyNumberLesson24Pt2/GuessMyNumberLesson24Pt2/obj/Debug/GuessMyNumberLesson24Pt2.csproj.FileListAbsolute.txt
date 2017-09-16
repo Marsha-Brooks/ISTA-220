@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\bin\Debug\GuessMyNumberLesson24Pt2.exe.config
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\bin\Debug\GuessMyNumberLesson24Pt2.exe
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\bin\Debug\GuessMyNumberLesson24Pt2.pdb
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\obj\Debug\GuessMyNumberLesson24Pt2.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\obj\Debug\GuessMyNumberLesson24Pt2.exe
+C:\Users\marsh\Documents\ISTA-220\Exercises&Labs\GuessMyNumber\GuessMyNumberLesson24Pt2\GuessMyNumberLesson24Pt2\obj\Debug\GuessMyNumberLesson24Pt2.pdb
