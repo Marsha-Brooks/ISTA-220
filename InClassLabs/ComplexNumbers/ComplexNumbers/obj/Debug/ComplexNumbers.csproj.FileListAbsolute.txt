@@ -1,0 +1,2 @@
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 22\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Downloads\CSharpSBS\Microsoft Press\VCSBS\Chapter 22\ComplexNumbers\ComplexNumbers\obj\Debug\ComplexNumbers.csproj.CoreCompileInputs.cache
