@@ -1,0 +1,7 @@
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\marsh\Documents\ISTA-220\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
