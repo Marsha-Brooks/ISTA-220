@@ -1,0 +1,6 @@
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\obj\Debug\CircumfranceandAreaOfCircle.csprojResolveAssemblyReference.cache
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\bin\Debug\CircumfranceandAreaOfCircle.exe.config
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\bin\Debug\CircumfranceandAreaOfCircle.exe
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\bin\Debug\CircumfranceandAreaOfCircle.pdb
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\obj\Debug\CircumfranceandAreaOfCircle.exe
+C:\Users\marsh\Documents\Visual Studio projects\projects C#\CircumfranceandAreaOfCircle\CircumfranceandAreaOfCircle\obj\Debug\CircumfranceandAreaOfCircle.pdb
